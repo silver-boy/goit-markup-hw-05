@@ -506,6 +506,7 @@ body {
 
 .footer-form {
     display: flex;
+    gap: 24px;
 }
 
 .footer-form-label {
